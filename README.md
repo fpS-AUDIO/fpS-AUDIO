@@ -6,7 +6,7 @@
 
 _"I began my career in the luxury hospitality industry, crafting culinary delights as a chef in 5-star hotels across the globe. This unique journey honed my organizational, communication, and problem-solving skills, which now seamlessly complement my technical abilities. My passion for technology and dedication to lifelong learning led me to the world of web development._
 
-_Feel free to explore my repositories and projects. I'm excited about the opportunity to collaborate and contribute to innovative projects in the tech industry, or simply contact me and we can have a chat in English, Italian, or Russian. Let's cook up something amazing together!"_
+_Feel free to explore my repositories and projects. I'm excited about the opportunity to collaborate and contribute to innovative projects, or simply contact me and we can have a chat in English, Italian, or Russian. Let's cook up something amazing together!"_
 
 ### Skills
 
