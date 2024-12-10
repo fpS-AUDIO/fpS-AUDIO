@@ -4,9 +4,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=fpS-AUDIO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-"I am a professional cook with a passion for crafting culinary experiences, but I also have a love for technology. Coding is my hobby, and I enjoy exploring the world of web development in my spare time.
+_"I am a professional cook with a passion for crafting culinary experiences, but I also have a love for technology. Coding is my hobby, and I enjoy exploring the world of web development in my spare time._
 
-Feel free to check out my repositories and projects—just a collection of what I’ve been learning and creating as I blend my interests in food and tech. Let’s connect and share ideas!"
+_Feel free to check out my repositories and projects — just a collection of what I’ve been learning and creating as I blend my interests in food and tech. Let’s connect and share ideas!"_
 
 ### Main Skills:
 
