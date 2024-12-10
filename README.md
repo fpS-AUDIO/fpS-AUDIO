@@ -4,9 +4,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=fpS-AUDIO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_"I began my career in the luxury hospitality industry, crafting culinary delights as a chef in 5-star hotels across the globe. This unique journey honed my organizational, communication, and problem-solving skills, which now seamlessly complement my technical abilities. My passion for technology and dedication to lifelong learning led me to the world of web development._
+_"I am a professional cook with a passion for crafting culinary experiences, but I also have a love for technology. Coding is my hobby, and I enjoy exploring the world of web development in my spare time.
 
-_Feel free to explore my repositories and projects. I'm excited about the opportunity to collaborate and contribute to innovative projects, or simply contact me and we can have a chat in English, Italian, or Russian. Let's cook up something amazing together!"_
+Feel free to check out my repositories and projects—just a collection of what I’ve been learning and creating as I blend my interests in food and tech. Let’s connect and share ideas!"_
 
 ### Main Skills:
 
